@@ -3,3 +3,4 @@ Image
 numpy
 pandas
 streamlit
+sklearn
